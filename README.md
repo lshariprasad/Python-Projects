@@ -1,1 +1,1 @@
-This game is build only for pyhton
+This game is build only for pyhto
