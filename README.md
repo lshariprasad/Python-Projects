@@ -1,2 +1,1 @@
-This game is build only for pyhto
-==
+This game is buil
