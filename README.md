@@ -1,2 +1,2 @@
-# Games
-Game Build in Python
+This game is build only for pyhton
+
