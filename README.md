@@ -1,3 +1,3 @@
 Pyhton Games
-
+.in method
 
