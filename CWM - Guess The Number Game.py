@@ -9,7 +9,8 @@ while guess_count < guess_limit :
     if guess == secrect_number:
         print (" You Won The Game ")
         break
-
+else:
     print(" Hey You Guess 3 Times.... ")
     print(" Try Next Time... ")
+
 
